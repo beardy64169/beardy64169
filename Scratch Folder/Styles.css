@@ -1,0 +1,23 @@
+body {font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: gray;
+    font-weight: normal;
+    background-color: rgb(253, 253, 253);
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(251, 241, 226);
+    }
+    li{font-size: 12px; color: rgb(91, 2, 20);}
+    .bold {font-weight: bold;
+    color: black;}
+.homebg {background-image: url('../Images/Droplets.jpg');
+text-align: center;}
+.a {color: black;
+text-decoration: none;}
+a:hover {
+    font-weight: bold; text-decoration: underline;
+}
+a:visited {color: aqua;}
+.border {border-width: 1px; border-style: solid; border-color: aliceblue;} 
+.border2 {padding: 5px;}
+.border3 {padding: 5px;}
